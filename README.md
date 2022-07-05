@@ -11,7 +11,7 @@ The main feature of this game uses OpenCV and Machine Learning to allows players
 webcam, in order to use some of Sasuke's signature ninjitsu. 
 
 Let your inner weeb loose, and take a major feelz trip back to the simplier days in primary school,
-where the only troubles we had was whether we'll make it home in time to catch Naruto on CrunchyRoll every friday.
+where the only worry we had was whether we'll make it home in time to catch Naruto on CrunchyRoll every friday.
 
 
 
