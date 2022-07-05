@@ -18,7 +18,11 @@ where the only troubles we had was whether we'll make it home in time to catch N
 
 ## Demo
 
-Insert gif or link to demo
+
+
+https://user-images.githubusercontent.com/102948566/177392191-bf9f3681-54f4-4507-8bd0-c1b9f70f8a56.mp4
+
+
 
 
 ## WorkFlow 
@@ -36,6 +40,9 @@ Insert gif or link to demo
 
 ## Model
 
+Model of Choice: SSD MobileNet
+
+![mobileNet-SSD-network-architecture](https://user-images.githubusercontent.com/102948566/177393896-15cdbfdf-5ee1-42d9-ae99-5b7b659baa23.png)
 
 Model Accuracy:
 
