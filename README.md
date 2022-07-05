@@ -3,15 +3,15 @@
 
 # Naruto OpenCV MachineLearning Turn-base Game
 
-For those who were a big fan of the Naruto series like me, and for those who are current fans of the Boruto series,
+For those who were a big fan of the Naruto anime series like me, and for those who are current fans of the Boruto anime series,
 this Naruto OpenCV game is a turn-based game which features our best boi Sasuke as the main character.
 You, as the player, will help Sasuke kick some major bandit butts.
 
-The main feature of this game uses OpenCV and Machine Learning to allows players to wave handsigns in real life, infront of their
+The main feature of this game uses OpenCV and Machine Learning to allow players to wave handsigns in real life, infront of their
 webcam, in order to use some of Sasuke's signature ninjitsu. 
 
-Let your inner weeb loose, and take a major feelz trip back to the simplier days in primary school,
-where the only worry we had was whether we'll make it home in time to catch Naruto on CrunchyRoll every friday.
+Let your inner weeb loose, and take a major feelz trip back to the simplier times in primary school,
+when the only worry we had was whether we'll make it home in time to catch Naruto on CrunchyRoll every friday.
 
 
 
@@ -72,6 +72,7 @@ Model Accuracy:
  - [Custom Object Detection using TensorFlow from Scratch](https://towardsdatascience.com/custom-object-detection-using-tensorflow-from-scratch-e61da2e10087)
  - [PyGame: A Primer on Game Programming in Python](https://realpython.com/pygame-a-primer/)
  - [Python pygame – The Full Tutorial](https://coderslegacy.com/python/python-pygame-tutorial/)
+ - [Banner Photo - Ronald @seerlight](https://www.instagram.com/seerlight/?hl=en)
 
 ## Limitation & Futurework
 
