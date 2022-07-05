@@ -4,8 +4,8 @@
 # Naruto OpenCV MachineLearning Turn-base Game
 
 For those who were a big fan of the Naruto series like me, and for those who are current fans of the Boruto series,
-this Naruto OpenCV game is a turn-based game which features our best boi Sasuke as the main Character,
-and where you, as the player, will help him kick some major bandit ass.
+this Naruto OpenCV game is a turn-based game which features our best boi Sasuke as the main character.
+You, as the player, will help Sasuke kick some major bandit butts.
 
 The main feature of this game uses OpenCV and Machine Learning to allows players to wave handsigns in real life, infront of their
 webcam, in order to use some of Sasuke's signature ninjitsu. 
