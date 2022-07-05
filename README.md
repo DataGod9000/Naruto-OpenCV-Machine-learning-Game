@@ -1,5 +1,5 @@
 
-![](https://github.com/user/banner.png)
+![](https://github.com/kukujiaopython/Naruto-OpenCV-Machine-learning-Game/blob/main/naruto%20game%20banner.PNG)
 
 # Naruto OpenCV MachineLearning Turn-base Game
 
