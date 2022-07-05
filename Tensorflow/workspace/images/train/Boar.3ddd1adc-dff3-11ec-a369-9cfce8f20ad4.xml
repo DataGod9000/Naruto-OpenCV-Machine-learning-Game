@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Boar.3ddd1adc-dff3-11ec-a369-9cfce8f20ad4.jpg</filename>
+	<path>C:\Users\get gd nub\Desktop\portfolio\naruto jitsu\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Boar.3ddd1adc-dff3-11ec-a369-9cfce8f20ad4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Boar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>258</ymin>
+			<xmax>414</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

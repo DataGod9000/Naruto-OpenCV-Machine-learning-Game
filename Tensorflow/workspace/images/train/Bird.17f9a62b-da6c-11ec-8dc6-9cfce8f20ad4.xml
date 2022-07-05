@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Bird.17f9a62b-da6c-11ec-8dc6-9cfce8f20ad4.jpg</filename>
+	<path>C:\Users\get gd nub\Desktop\narutojitsugame\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Bird.17f9a62b-da6c-11ec-8dc6-9cfce8f20ad4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>150</ymin>
+			<xmax>353</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Horse.b006b4a2-da85-11ec-8c6d-9cfce8f20ad4.jpg</filename>
+	<path>C:\Users\get gd nub\Desktop\narutojitsugame\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Horse.b006b4a2-da85-11ec-8c6d-9cfce8f20ad4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>51</ymin>
+			<xmax>443</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

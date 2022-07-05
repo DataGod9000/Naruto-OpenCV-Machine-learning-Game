@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Serpant.5b7b9603-daa1-11ec-8e53-9cfce8f20ad4.jpg</filename>
+	<path>C:\Users\get gd nub\Desktop\narutojitsugame\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Serpant.5b7b9603-daa1-11ec-8e53-9cfce8f20ad4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Serpent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>211</ymin>
+			<xmax>419</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

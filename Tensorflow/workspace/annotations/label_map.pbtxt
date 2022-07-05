@@ -1,0 +1,48 @@
+item { 
+	name:'Bird'
+	id:1
+}
+item { 
+	name:'Boar'
+	id:2
+}
+item { 
+	name:'Dog'
+	id:3
+}
+item { 
+	name:'Dragon'
+	id:4
+}
+item { 
+	name:'Hare'
+	id:5
+}
+item { 
+	name:'Horse'
+	id:6
+}
+item { 
+	name:'Monkey'
+	id:7
+}
+item { 
+	name:'Ox'
+	id:8
+}
+item { 
+	name:'Ram'
+	id:9
+}
+item { 
+	name:'Rat'
+	id:10
+}
+item { 
+	name:'Serpent'
+	id:11
+}
+item { 
+	name:'Tiger'
+	id:12
+}
