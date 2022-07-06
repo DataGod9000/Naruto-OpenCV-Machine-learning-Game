@@ -487,6 +487,7 @@ def game():
             if game_over == -1:
                 screen.blit(defeat_img, (290, 50))
             if restart_button.draw():
+                run = False
                 game()
                 #Sasuke.reset()
                 #for bandit in bandit_list:
