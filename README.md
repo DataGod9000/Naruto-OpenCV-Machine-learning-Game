@@ -1,5 +1,5 @@
 
-![](https://github.com/Aspiring-DataGod9000/Naruto-OpenCV-Machine-learning-Game/blob/main/naruto%20game%20banner%20(2).PNG)
+![](https://github.com/Aspiring-DataGod9000/Naruto-OpenCV-Machine-learning-Game/blob/master/files/Background/naruto%20game%20banner%20(2).PNG)
 
 # Naruto OpenCV MachineLearning Turn-base Game
 
