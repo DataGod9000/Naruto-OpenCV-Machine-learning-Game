@@ -46,20 +46,20 @@ Model of Choice: SSD MobileNet
 
 Model Accuracy:
 
-| Hand Signs | Train    | Test |
-| ---------- | -------- | ---- |
-| Monkey     | 85%      | 80%  |
-| Dragon     | 89%      | 79%  |
-| Rat        | 92%      | 87%  |
-| Bird       | 98%      | 85%  |
-| Snake      | 89%      | 76%  |
-| Ox         | 93%      | 71%  |
-| Dog        | 95%      | 80%  |
-| Horse      | 99%      | 75%  |
-| Tiger      | 91%      | 74%  |
-| Boar       | 87%      | 70%  | 
-| Ram        | 93%      | 87%  | 
-| Hare       | 96%      | 90%  |
+| Hand Signs | Train    | Test | Unseen |
+| ---------- | -------- | ---- | ------ |
+| Monkey     | 85%      | 80%  | 93%    |
+| Dragon     | 89%      | 79%  | 83%    |
+| Rat        | 92%      | 87%  | 70%    |
+| Bird       | 98%      | 85%  | 60%    |
+| Snake      | 89%      | 76%  | 90%    |
+| Ox         | 93%      | 71%  | 73%    |
+| Dog        | 95%      | 80%  | 90%    |
+| Horse      | 99%      | 75%  | 80%    |
+| Tiger      | 91%      | 74%  | 80%    |
+| Boar       | 87%      | 70%  | 99%    |
+| Ram        | 93%      | 87%  | 76%    |
+| Hare       | 96%      | 90%  | 80%    |
 
 
 
